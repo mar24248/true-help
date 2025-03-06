@@ -1,0 +1,1 @@
+conda create --name la_fires python=3.11 pip
